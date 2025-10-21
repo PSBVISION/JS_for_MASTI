@@ -28,7 +28,7 @@ body{
 .container{
   position: absolute;
   top: 50%;
-  bottom: 50%;
+  left: 50%;
   transform: translate(-50%, -50%) scale(var(--scale, 0));
   width: calc(var(--width) * 1px);
   height: calc(var(--height) * 1px);
